@@ -8,7 +8,6 @@ This is the backend part of our Customer Management System, built using Flask. T
 - [Features](#features)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Description
@@ -88,18 +87,6 @@ The project structure is organized to maintain a clean and scalable codebase. He
 
 - `requirements.txt`: Contains the list of dependencies required for the project.
   - Used to install the necessary packages using pip.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-Please make sure your code follows the project's coding style and includes appropriate tests.
 
 ## License
 
